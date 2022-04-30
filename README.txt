@@ -62,4 +62,4 @@ Content:
 		Implements the functions of TestControl.h
 	-main.cc
 		The main class that uses the TestView and TestControl classes
-		in order to test the classes implemented in this assignment
+		in order to test the implemented classes
